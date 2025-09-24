@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179293207014",
+    "project_id": "complete-authentication-6e77d",
+    "storage_bucket": "complete-authentication-6e77d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179293207014:android:ca94c62481c444e1ad7e27",
+        "android_client_info": {
+          "package_name": "com.example.complete_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9qA6TA44yVV4cgue9S8GkWk0TwP4vsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
